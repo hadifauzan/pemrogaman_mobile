@@ -81,3 +81,7 @@ disini saya telah membetulkan baris code yang salah
 <img src='12.png'>
 
 <img src='13.png'>
+
+# laporan soal ipk calculator
+
+<img src='14.png'>
